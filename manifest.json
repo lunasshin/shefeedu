@@ -1,0 +1,11 @@
+{
+  "name": "SHEFE 패각 안전모 공작소",
+  "short_name": "SHEFE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#EDEFEC",
+  "theme_color": "#F2B705",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
